@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Nanda Kishore",
+  "author": "P. Sai Yashwanth",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",

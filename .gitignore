@@ -1,7 +1,7 @@
 # Dependencies
 node_modules/
 
-# Environment Variables
+# Environment variables
 .env
 .env.*
 !.env.example
@@ -17,6 +17,6 @@ yarn-error.log*
 logs/
 *.log
 
-# Editor Directories
+# Editor directories
 .vscode/
 .idea/
